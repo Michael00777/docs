@@ -45,7 +45,8 @@ Routes
 Load-balancing
 --------------
 
-### Internal-LoadBalancer
+Internal-LoadBalancer
+--------------------
 **RULES**
 
 - Internal Loadbalancer is a _**regional Service**_
@@ -54,10 +55,11 @@ Load-balancing
 - If you use an internal load balancer over a VPN tunnel or Dedicated Interconnect, global dynamic routing might cause unexpected issues when a local region's connectivity to the on-premises network goes down. 
 - Traffic going through the load balancer must originate or be directed to the same region as the load balancer. 
 
-### Cloud-dns
+Cloud-dns
+---------
 
-
-### Vpn/cloud-routers
+Vpn/cloud-routers
+-----------------
 #### 8.1 Cloud-routers
 [Cloud router docs](https://cloud.google.com/router/docs/concepts/overview?hl=en_US&_ga=2.55156579.-957855535.1523742970#dynamic-routing-mode)
 ### Cloud-content-delivery-network(cdn)
