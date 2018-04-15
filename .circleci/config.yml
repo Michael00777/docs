@@ -6,8 +6,8 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Greeting
-          command: echo Hello, world.
+          name: Install Markdown Linter
+          command: gem install mdl
       - run:
-          name: Print the Current Time
-          command: date
+          name: Check the GoogleCloudPlatform Dir for Markdown rules
+          command: mdl docs/
