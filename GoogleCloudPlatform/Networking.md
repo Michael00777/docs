@@ -19,8 +19,12 @@ Introduction
 -------------
 Here we discuss the concepts and best practices while working with the Networking construct in GCP.
 
+NOTE: Use this as a guide https://medium.com/@earlg3/google-cloud-architect-exam-study-materials-5ab327b62bc8
+
+
 VPC
 ---
+All GCP projects start with a **default** network
 
 External-IP-Addressing
 -------------
