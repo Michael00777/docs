@@ -50,7 +50,7 @@ GCP customers can consume gcp services  and resources such as Cloud Storage, Saa
 over the Internet. This provides a higher level of security control within the
 VPC as it minimises the need for workload traffic to traverse the
 Internet. This setting is configurable on a per Subnet basis and is known as
-**Private Google Access** (aka ***Private Access***
+**Private Google Access** (aka ***Private Access***)
 
 
 Restricted API
