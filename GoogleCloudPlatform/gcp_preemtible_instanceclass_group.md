@@ -23,10 +23,61 @@ $$$
 $$$
 
 
-```sequence
-Title: Here is a title
+```
+<summary>Title: Here is a title<\summary>
 A -> B: Normal line
 B --> C: Dashed line
 C ->> D: Open arrow
 D -->> A: Dashed open arrow
 ```
+
+
+
+
+
+<details>
+<summary>Code Snippet</summary>
+
+```- This is how you dropdown.
+
+- donf
+
+- sab]]]
+
+```
+</details>
+
+<details>
+<summary>Cloud Storage</summary>
+
+<details>
+<summary>what is a bucket?</summary>
+
+
+`Cloud Storage lets you store unstructured objects in containers called buckets. You can serve static data directly from Cloud Storage, or you can use it to store data for other Google Cloud Platform services.`
+
+</details>
+
+<details>
+<summary>How to create a bucket ?</summary>
+
+    Name: 
+    Storage Class:
+    Location:
+    Labels:
+    Encryptions:
+
+</details>
+
+<details>
+<summary>Types of Storage Classes</summary>
+
+    Multi-region
+    Regional
+    Nearline
+    Coldline
+    
+
+</details>
+
+</details>  
