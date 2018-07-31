@@ -26,6 +26,8 @@ Different storage types need different storage -breakdown
 Is your data structured or unstructured ?
 Structured data - > `Example`: Excel Spreadsheet
 Unstructured -> `Example` : Not table row format.
+
+
 **Type**   | **Feature**  | **Notes** 
 ---------|----------|---------
 Bigtable| <ul><li>No SQL </li><li> </li></ul> | <details> <summary> Use Cases:</summary> <ul><li>HBase opensource option </li><li>high throughput analytics </li><li>IoT </li><li>ad tech</li></ul> </details>
@@ -36,6 +38,7 @@ Spanner| <ul><li>New SQL </li><li>horizontally scalable</li></ul> | <ul><li>scal
 Memorystore|  | 
 Filestore|  | 
 Big Query|  | 
+
 
 ### Structured Data
 1. Cloud SQL 
