@@ -24,8 +24,10 @@ Within GCP storage there are many options and it boils down to two imporatant qu
 Different storage types need different storage -breakdown
 
 Is your data structured or unstructured ?
-Structured data - > `Example`: Excel Spreadsheet
-Unstructured -> `Example` : Not table row format.
+
+- Structured data - > `Example`: Excel Spreadsheet
+
+- Unstructured -> `Example` : Not table row format.
 
 
 **Type**   | **Feature**  | **Notes** 
